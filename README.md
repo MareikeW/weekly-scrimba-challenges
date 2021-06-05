@@ -1,4 +1,4 @@
-# weekly-scrimba-challenges
+# Weekly Scrimba Challenges
 
 1. <a href="https://scrimba.com/scrim/cp9d9mu4" target="_blank">Emoji Rankings:</a>
     <br>
