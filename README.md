@@ -8,3 +8,9 @@
     1. Listen for keyboard events when the box has focus
     2. Figure out which key the user pressed
     3. If it's between 1 and 5, display an emoji in the box!
+
+2. <a href="https://scrimba.com/scrim/c2G3qpSB" target="_blank">String Calculator:</a>
+    1️⃣ + 1️⃣ = 2️⃣
+    <br>
+    1. Solve a simple text-based math problem entered in the input field.
+    2. Display the equation on screen.
