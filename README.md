@@ -15,7 +15,7 @@
     1. Solve a simple text-based math problem entered in the input field.
     2. Display the equation on screen.
 
-3. <a href="https://scrimba.com/scrim/co7354173b549d09209e4d885" target="_blank">Prcing Component:</a>
+3. <a href="https://scrimba.com/scrim/cavBBGAP" target="_blank">Prcing Component:</a>
     <br>
     🐱🦁🐯💷
     DETAILED INSTRUCTIONS
