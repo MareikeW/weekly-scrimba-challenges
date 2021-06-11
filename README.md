@@ -14,3 +14,10 @@
     <br>
     1. Solve a simple text-based math problem entered in the input field.
     2. Display the equation on screen.
+
+3. <a href="https://scrimba.com/scrim/co7354173b549d09209e4d885" target="_blank">Prcing Component:</a>
+    <br>
+    🐱🦁🐯💷
+    DETAILED INSTRUCTIONS
+    1. When clicked, the selected card should enlarge (up to you how much) and the price should have a color of #ffd60a.
+    2. The non-selected cards should reduce in opacity.
