@@ -23,3 +23,8 @@
     DETAILED INSTRUCTIONS
     1. When clicked, the selected card should enlarge (up to you how much) and the price should have a color of #ffd60a.
     2. The non-selected cards should reduce in opacity.
+
+4. <a href="https://scrimba.com/scrim/co9ae4c0c9ae42996b433a8cc" target="_blank">Accessibility Form:</a>
+    <br>
+    1. Make the form accessible for screenreaders
+    2. Style the form
